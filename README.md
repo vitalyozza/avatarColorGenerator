@@ -10,8 +10,8 @@
 ## Запуск стенда
 
 - Установить зависимости: 
- - npm: `npm install`
+    - npm: `npm install`
 - Запустить сборку: 
- - npm: `npm run dev -- --open`
+    - npm: `npm run dev -- --open`
 
 Сделано с помощью SvelteKit.
